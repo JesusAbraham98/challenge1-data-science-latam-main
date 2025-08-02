@@ -1,4 +1,4 @@
-Análisis de Ventas por Tienda
+# Análisis de Ventas por Tienda
 
 🎯 Propósito del Análisis
 Este proyecto tiene como objetivo analizar un conjunto de datos relacionado con ventas realizadas por distintas tiendas en una plataforma. A partir de estos datos, se busca obtener información relevante como la facturación total, el número de ventas por categoría, la calificación promedio de las tiendas, los productos más y menos vendidos, y otros insights clave que puedan ayudar a la toma de decisiones estratégicas sobre el rendimiento de cada tienda.
